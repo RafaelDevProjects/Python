@@ -1,0 +1,5 @@
+rafael;20
+samira;47
+bruna;21
+lucas;19
+3;3
