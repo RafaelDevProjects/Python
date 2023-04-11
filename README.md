@@ -2,10 +2,10 @@
 Repositorio em Pythom com as possibilidade da linguagem
 
 Parte 1
--Aninhamento
--Estrutura While
--Estruturas de repetição
--Estrutura de repetição-break
+<br />-Aninhamento
+<br />-Estrutura While
+<br />-Estruturas de repetição
+<br />-Estrutura de repetição-break
  
 Parte 2
 -Funções
