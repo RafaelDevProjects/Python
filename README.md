@@ -8,7 +8,7 @@ Parte 1
 <br />-Estrutura de repetição-break
  
 Parte 2
--Funções
--Modularização
--Tratamento de erros e exceções
--Variaveis compostas: Tuplas, Listas, Dicionários
+<br />-Funções
+<br />-Modularização
+<br />-Tratamento de erros e exceções
+<br />-Variaveis compostas: Tuplas, Listas, Dicionários
