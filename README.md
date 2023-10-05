@@ -1,5 +1,5 @@
 # Pythom
-Repositorio em Pythom com as possibilidade da linguagem
+Repositorio em Python com as possibilidade da linguagem
 
 Parte 1
 <br />-Aninhamento
